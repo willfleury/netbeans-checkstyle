@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document> 
+    <properties> 
+        <title>Download</title> 
+        <author email="hejlp@seznam.cz">Petr Hejl</author>
+    </properties> 
+    <body> 
+
+        <section name="Download"> 
+            <p> 
+                Here you can download the latest version of Checkstyle Beans plugin.
+            </p>
+            <p>
+                After the installation the plugin should start working immediately.
+                When you open a new source file or save an existing one you should
+                see the Checkstyle annotations.
+            </p>
+
+            <p>
+                <strong>Choose version 3.x.x in order to use NetBeans 7/8 and Checkstyle 5.7.</strong>
+            </p>
+            <p>
+                <strong>Choose version 2.x.x in order to use Checkstyle 5.</strong>
+            </p>
+            <p>
+                <strong>Choose version 1.x.x in order to use Checkstyle 4.</strong>
+            </p>
+            
+            <p>
+                In version 3.0.0 with support for NetBeans 7 and Checkstyle 5.4
+                plugin had to be incompatibly changed (as Checkstyle 5.4 itself did so).
+            </p>
+
+            <p>
+                In version 2.0.0 with support for Checkstyle 5 plugin had to be
+                incompatibly changed (as Checkstyle 5 itself did so).
+            </p>
+
+            <p>
+                The integrated GUI builder filter was removed in version
+                1.2.0. You can use this as custom filter in standard way
+                since then. This filter is now part of the <a href="extra.html">Extra Code</a>.
+            </p>         
+        </section>
+
+        <section name="Online Installation">
+            <p>
+                You can easily install the plugin from NetBeans by configuring
+                the following update center:
+            </p>
+            <p>
+                <strong>NetBeans 7/8 and Checkstyle 5.7 support</strong>
+                <ul>
+                    <li><a href="http://www.sickboy.cz/checkstyle/autoupdate/autoupdate-3.xml">
+                    http://www.sickboy.cz/checkstyle/autoupdate/autoupdate-3.xml</a></li>
+                </ul>
+            </p>
+            <p>
+                <strong>Checkstyle 5 support</strong>
+                <ul>
+                    <li><a href="http://www.sickboy.cz/checkstyle/autoupdate/autoupdate-2.xml">
+                    http://www.sickboy.cz/checkstyle/autoupdate/autoupdate-2.xml</a></li>
+                </ul>
+            </p>
+            <p>
+                <strong>Checkstyle 4 support</strong>
+                <ul>
+                    <li><a href="http://www.sickboy.cz/checkstyle/autoupdate/autoupdate.xml">
+                    http://www.sickboy.cz/checkstyle/autoupdate/autoupdate.xml</a></li>
+                </ul>
+            </p>
+        </section>
+
+        <section name="Offline Installation">
+            <div class="normal-hack">
+                <strong>NetBeans 7/8 and Checkstyle 5.7 support</strong>
+            </div>
+
+            <ul>
+                <li><a href="http://www.sickboy.cz/repository/cz/sickboy/netbeans-checkstyle/3.4.0/netbeans-checkstyle-3.4.0-bin.zip">netbeans-checkstyle-3.4.0-bin.zip</a></li>
+                <li><a href="http://www.sickboy.cz/repository/cz/sickboy/netbeans-checkstyle/3.4.0/netbeans-checkstyle-3.4.0-bin.tar.bz2">netbeans-checkstyle-3.4.0-bin.tar.bz2</a></li>
+                <li><a href="http://www.sickboy.cz/repository/cz/sickboy/netbeans-checkstyle/3.4.0/netbeans-checkstyle-3.4.0-bin.tar.gz">netbeans-checkstyle-3.4.0-bin.tar.gz</a></li>
+            </ul>
+
+            <div class="normal-hack">
+                <strong>Checkstyle 5 support</strong>
+            </div>
+
+            <ul>
+                <li><a href="http://www.sickboy.cz/repository/cz/sickboy/netbeans-checkstyle/2.0.0/netbeans-checkstyle-2.0.0-bin.zip">netbeans-checkstyle-2.0.0-bin.zip</a></li>
+                <li><a href="http://www.sickboy.cz/repository/cz/sickboy/netbeans-checkstyle/2.0.0/netbeans-checkstyle-2.0.0-bin.tar.bz2">netbeans-checkstyle-2.0.0-bin.tar.bz2</a></li>
+                <li><a href="http://www.sickboy.cz/repository/cz/sickboy/netbeans-checkstyle/2.0.0/netbeans-checkstyle-2.0.0-bin.tar.gz">netbeans-checkstyle-2.0.0-bin.tar.gz</a></li>
+            </ul>
+
+            <div class="normal-hack">
+                <strong>Checkstyle 4 support</strong>
+            </div>
+
+            <ul>
+                <li><a href="http://www.sickboy.cz/repository/cz/sickboy/netbeans-checkstyle/1.3.0/netbeans-checkstyle-1.3.0-bin.zip">netbeans-checkstyle-1.3.0-bin.zip</a></li>
+                <li><a href="http://www.sickboy.cz/repository/cz/sickboy/netbeans-checkstyle/1.3.0/netbeans-checkstyle-1.3.0-bin.tar.bz2">netbeans-checkstyle-1.3.0-bin.tar.bz2</a></li>
+                <li><a href="http://www.sickboy.cz/repository/cz/sickboy/netbeans-checkstyle/1.3.0/netbeans-checkstyle-1.3.0-bin.tar.gz">netbeans-checkstyle-1.3.0-bin.tar.gz</a></li>        		
+            </ul>
+
+        </section>
+
+        <section name="Source Code">
+            <div class="normal-hack">
+                <strong>NetBeans 7/8 and Checkstyle 5.7 support</strong>
+            </div>
+
+            <ul>
+                <li><a href="http://www.sickboy.cz/repository/cz/sickboy/netbeans-checkstyle/3.4.0/netbeans-checkstyle-3.4.0-src.zip">netbeans-checkstyle-3.4.0-src.zip</a></li>
+                <li><a href="http://www.sickboy.cz/repository/cz/sickboy/netbeans-checkstyle/3.4.0/netbeans-checkstyle-3.4.0-src.tar.bz2">netbeans-checkstyle-3.4.0-src.tar.bz2</a></li>
+                <li><a href="http://www.sickboy.cz/repository/cz/sickboy/netbeans-checkstyle/3.4.0/netbeans-checkstyle-3.4.0-src.tar.gz">netbeans-checkstyle-3.4.0-src.tar.gz</a></li>
+            </ul>
+
+            <div class="normal-hack">
+                <strong>Checkstyle 5 support</strong>
+            </div>
+
+            <ul>
+                <li><a href="http://www.sickboy.cz/repository/cz/sickboy/netbeans-checkstyle/2.0.0/netbeans-checkstyle-2.0.0-src.zip">netbeans-checkstyle-2.0.0-src.zip</a></li>
+                <li><a href="http://www.sickboy.cz/repository/cz/sickboy/netbeans-checkstyle/2.0.0/netbeans-checkstyle-2.0.0-src.tar.bz2">netbeans-checkstyle-2.0.0-src.tar.bz2</a></li>
+                <li><a href="http://www.sickboy.cz/repository/cz/sickboy/netbeans-checkstyle/2.0.0/netbeans-checkstyle-2.0.0-src.tar.gz">netbeans-checkstyle-2.0.0-src.tar.gz</a></li>
+            </ul>
+
+            <div class="normal-hack">
+                <strong>Checkstyle 4 support</strong>
+            </div>
+
+            <ul>
+                <li><a href="http://www.sickboy.cz/repository/cz/sickboy/netbeans-checkstyle/1.3.0/netbeans-checkstyle-1.3.0-src.zip">netbeans-checkstyle-1.3.0-src.zip</a></li>
+                <li><a href="http://www.sickboy.cz/repository/cz/sickboy/netbeans-checkstyle/1.3.0/netbeans-checkstyle-1.3.0-src.tar.bz2">netbeans-checkstyle-1.3.0-src.tar.bz2</a></li>
+                <li><a href="http://www.sickboy.cz/repository/cz/sickboy/netbeans-checkstyle/1.3.0/netbeans-checkstyle-1.3.0-src.tar.gz">netbeans-checkstyle-1.3.0-src.tar.gz</a></li>        		
+            </ul>
+
+        </section>                
+    </body>
+</document>
